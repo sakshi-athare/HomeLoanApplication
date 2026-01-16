@@ -95,38 +95,6 @@ Additional business rules:
 
 ---
 
-## 📂 Project Structure
-
-
----
-
-### ⚠️ IMPORTANT (READ ONCE)
-
-- `serviceimpl` is a **package name**, not a typo  
-  (if you prefer `service.impl`, change both structure & code consistently)
-- Controllers are **role-segregated** (customer / officer / manager)
-- Entities are **never exposed** directly to controllers
-- JWT config is isolated under `config`
-
----
-
-### ✅ This structure is:
-- Interview-safe  
-- Industry-realistic  
-- Easy to explain  
-- Easy to extend  
-
----
-
-If you want next:
-- **DTO + Mapper code**
-- **Service layer business logic**
-- **JWT security implementation**
-
-Say which one.
-
----
-
 ## 🛠️ Technology Stack
 
 - **Language:** Java 8  
