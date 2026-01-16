@@ -4,8 +4,6 @@
 The **Home Loan Finance Management System** is a backend application designed to automate the **end-to-end home loan process** followed in real banking systems.  
 It is built with a strong focus on **role-based workflows**, **credit risk assessment (CIBIL-based)**, and **clean layered architecture**, rather than simple CRUD operations.
 
-This project reflects **industry-level backend design**, suitable for interviews and real-world understanding.
-
 ---
 
 ## 🎯 Problem Statement
